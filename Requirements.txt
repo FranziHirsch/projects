@@ -1,0 +1,8 @@
+Pillow
+weather_forecast
+pyowm
+pyinstaller
+pandas
+xlrd
+openpyxl
+rapidfuzz
